@@ -1,0 +1,3 @@
+BABA ASTRO MANTRA — V19
+All image slots are square (1:1) to match user-provided square PNG uploads.
+Mantra paths retain the requested category-slug-number convention, e.g. assets/images/mantras/vedic-mantra-1.png.

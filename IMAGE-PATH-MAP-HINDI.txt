@@ -1,0 +1,924 @@
+BABA ASTRO MANTRA V19 — IMAGE PATH MAP
+सभी इमेज 1:1 स्क्वेयर अनुपात में अपलोड करें; वेबसाइट के बॉक्स इसी हिसाब से बनाए गए हैं।
+
+Mantra images (822 entries):
+assets/images/mantras/vedic-mantra-1.png  — गायत्री मंत्र
+assets/images/mantras/vedic-mantra-2.png  — महामृत्युंजय मंत्र
+assets/images/mantras/vedic-mantra-3.png  — पुरुष सूक्त
+assets/images/mantras/vedic-mantra-4.png  — श्री सूक्त
+assets/images/mantras/vedic-mantra-5.png  — नासदीय सूक्त
+assets/images/mantras/vedic-mantra-6.png  — शांति पाठ
+assets/images/mantras/vedic-mantra-7.png  — गणपति अथर्वशीर्ष
+assets/images/mantras/vedic-mantra-8.png  — रुद्र मंत्र
+assets/images/mantras/vedic-mantra-9.png  — मेधा सूक्त
+assets/images/mantras/vedic-mantra-10.png  — भूमि सूक्त
+assets/images/mantras/beej-mantra-1.png  — ॐ
+assets/images/mantras/beej-mantra-2.png  — ह्रीं
+assets/images/mantras/beej-mantra-3.png  — श्रीं
+assets/images/mantras/beej-mantra-4.png  — क्लीं
+assets/images/mantras/beej-mantra-5.png  — ऐं
+assets/images/mantras/beej-mantra-6.png  — गं
+assets/images/mantras/beej-mantra-7.png  — दुं
+assets/images/mantras/beej-mantra-8.png  — द्रां
+assets/images/mantras/beej-mantra-9.png  — क्रौं
+assets/images/mantras/beej-mantra-10.png  — हुं
+assets/images/mantras/beej-mantra-11.png  — ग्लौं
+assets/images/mantras/beej-mantra-12.png  — क्ष्रौं
+assets/images/mantras/devi-mantra-1.png  — दुर्गा मंत्र
+assets/images/mantras/devi-mantra-2.png  — महालक्ष्मी मंत्र
+assets/images/mantras/devi-mantra-3.png  — सरस्वती मंत्र
+assets/images/mantras/devi-mantra-4.png  — काली मंत्र
+assets/images/mantras/devi-mantra-5.png  — पार्वती मंत्र
+assets/images/mantras/devi-mantra-6.png  — गायत्री देवी मंत्र
+assets/images/mantras/devi-mantra-7.png  — चामुंडा मंत्र
+assets/images/mantras/devi-mantra-8.png  — भुवनेश्वरी मंत्र
+assets/images/mantras/devi-mantra-9.png  — त्रिपुरसुंदरी मंत्र
+assets/images/mantras/devi-mantra-10.png  — ललिता मंत्र
+assets/images/mantras/devi-mantra-11.png  — अन्नपूर्णा मंत्र
+assets/images/mantras/devi-mantra-12.png  — जगदंबा मंत्र
+assets/images/mantras/devta-mantra-1.png  — शिव मंत्र
+assets/images/mantras/devta-mantra-2.png  — गणेश मंत्र
+assets/images/mantras/devta-mantra-3.png  — विष्णु मंत्र
+assets/images/mantras/devta-mantra-4.png  — श्रीराम मंत्र
+assets/images/mantras/devta-mantra-5.png  — श्रीकृष्ण मंत्र
+assets/images/mantras/devta-mantra-6.png  — हनुमान मंत्र
+assets/images/mantras/devta-mantra-7.png  — सूर्य मंत्र
+assets/images/mantras/devta-mantra-8.png  — कार्तिकेय मंत्र
+assets/images/mantras/devta-mantra-9.png  — भैरव मंत्र
+assets/images/mantras/devta-mantra-10.png  — दत्तात्रेय मंत्र
+assets/images/mantras/devta-mantra-11.png  — कुबेर मंत्र
+assets/images/mantras/devta-mantra-12.png  — धन्वंतरि मंत्र
+assets/images/mantras/navgrah-mantra-1.png  — सूर्य मंत्र
+assets/images/mantras/navgrah-mantra-2.png  — चंद्र मंत्र
+assets/images/mantras/navgrah-mantra-3.png  — मंगल मंत्र
+assets/images/mantras/navgrah-mantra-4.png  — बुध मंत्र
+assets/images/mantras/navgrah-mantra-5.png  — गुरु मंत्र
+assets/images/mantras/navgrah-mantra-6.png  — शुक्र मंत्र
+assets/images/mantras/navgrah-mantra-7.png  — शनि मंत्र
+assets/images/mantras/navgrah-mantra-8.png  — राहु मंत्र
+assets/images/mantras/navgrah-mantra-9.png  — केतु मंत्र
+assets/images/mantras/gayatri-mantra-1.png  — वैदिक गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-2.png  — शिव गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-3.png  — गणेश गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-4.png  — विष्णु गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-5.png  — दुर्गा गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-6.png  — लक्ष्मी गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-7.png  — सरस्वती गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-8.png  — हनुमान गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-9.png  — सूर्य गायत्री मंत्र
+assets/images/mantras/gayatri-mantra-10.png  — कृष्ण गायत्री मंत्र
+assets/images/mantras/shanti-mantra-1.png  — ॐ द्यौः शान्तिः मंत्र
+assets/images/mantras/shanti-mantra-2.png  — ॐ सह नाववतु
+assets/images/mantras/shanti-mantra-3.png  — ॐ पूर्णमदः पूर्णमिदम्
+assets/images/mantras/shanti-mantra-4.png  — असतो मा सद्गमय
+assets/images/mantras/shanti-mantra-5.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/shanti-mantra-6.png  — लोकाः समस्ताः सुखिनो भवन्तु
+assets/images/mantras/shanti-mantra-7.png  — शन्नो मित्रः शं वरुणः
+assets/images/mantras/shanti-mantra-8.png  — भद्रं कर्णेभिः शृणुयाम देवाः
+assets/images/mantras/shanti-mantra-9.png  — शं नो देवीरभिष्टय
+assets/images/mantras/shanti-mantra-10.png  — स्वस्ति न इन्द्रो वृद्धश्रवाः
+assets/images/mantras/shiv-mantra-1.png  — ॐ नमः शिवाय
+assets/images/mantras/shiv-mantra-2.png  — महामृत्युंजय मंत्र
+assets/images/mantras/shiv-mantra-3.png  — शिव गायत्री मंत्र
+assets/images/mantras/shiv-mantra-4.png  — रुद्र मंत्र
+assets/images/mantras/shiv-mantra-5.png  — पंचाक्षरी मंत्र
+assets/images/mantras/shiv-mantra-6.png  — शिव ध्यान मंत्र
+assets/images/mantras/shiv-mantra-7.png  — शिव मूल मंत्र
+assets/images/mantras/shiv-mantra-8.png  — नीलकंठ मंत्र
+assets/images/mantras/shiv-mantra-9.png  — पशुपतिनाथ मंत्र
+assets/images/mantras/shiv-mantra-10.png  — अघोर मंत्र
+assets/images/mantras/shiv-mantra-11.png  — सदाशिव मंत्र
+assets/images/mantras/shiv-mantra-12.png  — शिव स्तुति मंत्र
+assets/images/mantras/ganesh-mantra-1.png  — ॐ गं गणपतये नमः
+assets/images/mantras/ganesh-mantra-2.png  — वक्रतुण्ड महाकाय
+assets/images/mantras/ganesh-mantra-3.png  — गणेश गायत्री मंत्र
+assets/images/mantras/ganesh-mantra-4.png  — गणेश मूल मंत्र
+assets/images/mantras/ganesh-mantra-5.png  — गणपति अथर्वशीर्ष के मंत्र
+assets/images/mantras/ganesh-mantra-6.png  — सिद्धिविनायक मंत्र
+assets/images/mantras/ganesh-mantra-7.png  — ऋणहर्ता गणेश मंत्र
+assets/images/mantras/ganesh-mantra-8.png  — गणेश ध्यान मंत्र
+assets/images/mantras/ganesh-mantra-9.png  — विघ्ननाशक गणेश मंत्र
+assets/images/mantras/ganesh-mantra-10.png  — गणेश स्तुति मंत्र
+assets/images/mantras/hanuman-mantra-1.png  — ॐ हं हनुमते नमः
+assets/images/mantras/hanuman-mantra-2.png  — हनुमान मूल मंत्र
+assets/images/mantras/hanuman-mantra-3.png  — हनुमान गायत्री मंत्र
+assets/images/mantras/hanuman-mantra-4.png  — आञ्जनेय मंत्र
+assets/images/mantras/hanuman-mantra-5.png  — बजरंगबली मंत्र
+assets/images/mantras/hanuman-mantra-6.png  — संकटमोचन हनुमान प्रार्थना
+assets/images/mantras/hanuman-mantra-7.png  — रामदूत हनुमान मंत्र
+assets/images/mantras/hanuman-mantra-8.png  — पंचमुखी हनुमान मंत्र
+assets/images/mantras/hanuman-mantra-9.png  — मनोजवं मारुततुल्यवेगम्
+assets/images/mantras/hanuman-mantra-10.png  — हनुमान ध्यान मंत्र
+assets/images/mantras/vishnu-mantra-1.png  — ॐ नमो नारायणाय
+assets/images/mantras/vishnu-mantra-2.png  — ॐ नमो भगवते वासुदेवाय
+assets/images/mantras/vishnu-mantra-3.png  — विष्णु गायत्री मंत्र
+assets/images/mantras/vishnu-mantra-4.png  — विष्णु मूल मंत्र
+assets/images/mantras/vishnu-mantra-5.png  — श्रीमन्नारायण मंत्र
+assets/images/mantras/vishnu-mantra-6.png  — विष्णु ध्यान मंत्र
+assets/images/mantras/vishnu-mantra-7.png  — अनंत पद्मनाभ मंत्र
+assets/images/mantras/vishnu-mantra-8.png  — लक्ष्मीनारायण मंत्र
+assets/images/mantras/vishnu-mantra-9.png  — विष्णु शांति मंत्र
+assets/images/mantras/vishnu-mantra-10.png  — विष्णु स्तुति मंत्र
+assets/images/mantras/krishna-mantra-1.png  — ॐ कृष्णाय नमः
+assets/images/mantras/krishna-mantra-2.png  — ॐ नमो भगवते वासुदेवाय
+assets/images/mantras/krishna-mantra-3.png  — गोपाल मंत्र
+assets/images/mantras/krishna-mantra-4.png  — बाल गोपाल मंत्र
+assets/images/mantras/krishna-mantra-5.png  — कृष्ण गायत्री मंत्र
+assets/images/mantras/krishna-mantra-6.png  — क्लीं कृष्णाय नमः
+assets/images/mantras/krishna-mantra-7.png  — राधाकृष्ण मंत्र
+assets/images/mantras/krishna-mantra-8.png  — गोविंद मंत्र
+assets/images/mantras/krishna-mantra-9.png  — दामोदर मंत्र
+assets/images/mantras/krishna-mantra-10.png  — मुरलीधर मंत्र
+assets/images/mantras/shri-ram-mantra-1.png  — श्रीराम जय राम जय जय राम
+assets/images/mantras/shri-ram-mantra-2.png  — ॐ रामाय नमः
+assets/images/mantras/shri-ram-mantra-3.png  — राम तारक मंत्र
+assets/images/mantras/shri-ram-mantra-4.png  — श्रीराम गायत्री मंत्र
+assets/images/mantras/shri-ram-mantra-5.png  — सीताराम मंत्र
+assets/images/mantras/shri-ram-mantra-6.png  — राम मूल मंत्र
+assets/images/mantras/shri-ram-mantra-7.png  — राम ध्यान मंत्र
+assets/images/mantras/shri-ram-mantra-8.png  — राम नाम मंत्र
+assets/images/mantras/shri-ram-mantra-9.png  — रघुनाथ मंत्र
+assets/images/mantras/shri-ram-mantra-10.png  — राम स्तुति मंत्र
+assets/images/mantras/lakshmi-mantra-1.png  — ॐ श्रीं महालक्ष्म्यै नमः
+assets/images/mantras/lakshmi-mantra-2.png  — महालक्ष्मी मूल मंत्र
+assets/images/mantras/lakshmi-mantra-3.png  — लक्ष्मी गायत्री मंत्र
+assets/images/mantras/lakshmi-mantra-4.png  — श्री सूक्त के मंत्र
+assets/images/mantras/lakshmi-mantra-5.png  — कनकधारा स्तोत्र के श्लोक
+assets/images/mantras/lakshmi-mantra-6.png  — गजलक्ष्मी मंत्र
+assets/images/mantras/lakshmi-mantra-7.png  — धनलक्ष्मी मंत्र
+assets/images/mantras/lakshmi-mantra-8.png  — अष्टलक्ष्मी मंत्र
+assets/images/mantras/lakshmi-mantra-9.png  — कमला मंत्र
+assets/images/mantras/lakshmi-mantra-10.png  — लक्ष्मी ध्यान मंत्र
+assets/images/mantras/saraswati-mantra-1.png  — ॐ ऐं सरस्वत्यै नमः
+assets/images/mantras/saraswati-mantra-2.png  — सरस्वती गायत्री मंत्र
+assets/images/mantras/saraswati-mantra-3.png  — सरस्वती बीज मंत्र
+assets/images/mantras/saraswati-mantra-4.png  — या कुन्देन्दुतुषारहारधवला
+assets/images/mantras/saraswati-mantra-5.png  — सरस्वती ध्यान मंत्र
+assets/images/mantras/saraswati-mantra-6.png  — वाग्देवी मंत्र
+assets/images/mantras/saraswati-mantra-7.png  — भारती मंत्र
+assets/images/mantras/saraswati-mantra-8.png  — शारदा मंत्र
+assets/images/mantras/saraswati-mantra-9.png  — विद्या मंत्र
+assets/images/mantras/saraswati-mantra-10.png  — सरस्वती वंदना
+assets/images/mantras/durga-mantra-1.png  — ॐ दुं दुर्गायै नमः
+assets/images/mantras/durga-mantra-2.png  — दुर्गा गायत्री मंत्र
+assets/images/mantras/durga-mantra-3.png  — नवार्ण मंत्र
+assets/images/mantras/durga-mantra-4.png  — दुर्गा मूल मंत्र
+assets/images/mantras/durga-mantra-5.png  — सर्वमंगल मांगल्ये
+assets/images/mantras/durga-mantra-6.png  — दुर्गा ध्यान मंत्र
+assets/images/mantras/durga-mantra-7.png  — चंडी मंत्र
+assets/images/mantras/durga-mantra-8.png  — अपराजिता मंत्र
+assets/images/mantras/durga-mantra-9.png  — कात्यायनी मंत्र
+assets/images/mantras/durga-mantra-10.png  — दुर्गा स्तुति मंत्र
+assets/images/mantras/rashi-mantra-1.png  — मेष राशि मंत्र
+assets/images/mantras/rashi-mantra-2.png  — वृषभ राशि मंत्र
+assets/images/mantras/rashi-mantra-3.png  — मिथुन राशि मंत्र
+assets/images/mantras/rashi-mantra-4.png  — कर्क राशि मंत्र
+assets/images/mantras/rashi-mantra-5.png  — सिंह राशि मंत्र
+assets/images/mantras/rashi-mantra-6.png  — कन्या राशि मंत्र
+assets/images/mantras/rashi-mantra-7.png  — तुला राशि मंत्र
+assets/images/mantras/rashi-mantra-8.png  — वृश्चिक राशि मंत्र
+assets/images/mantras/rashi-mantra-9.png  — धनु राशि मंत्र
+assets/images/mantras/rashi-mantra-10.png  — मकर राशि मंत्र
+assets/images/mantras/rashi-mantra-11.png  — कुंभ राशि मंत्र
+assets/images/mantras/rashi-mantra-12.png  — मीन राशि मंत्र
+assets/images/mantras/nakshatra-mantra-1.png  — अश्विनी नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-2.png  — भरणी नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-3.png  — कृत्तिका नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-4.png  — रोहिणी नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-5.png  — मृगशीर्ष नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-6.png  — आर्द्रा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-7.png  — पुनर्वसु नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-8.png  — पुष्य नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-9.png  — आश्लेषा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-10.png  — मघा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-11.png  — पूर्वाफाल्गुनी नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-12.png  — उत्तराफाल्गुनी नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-13.png  — हस्त नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-14.png  — चित्रा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-15.png  — स्वाती नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-16.png  — विशाखा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-17.png  — अनुराधा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-18.png  — ज्येष्ठा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-19.png  — मूल नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-20.png  — पूर्वाषाढ़ा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-21.png  — उत्तराषाढ़ा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-22.png  — श्रवण नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-23.png  — धनिष्ठा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-24.png  — शतभिषा नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-25.png  — पूर्वाभाद्रपद नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-26.png  — उत्तराभाद्रपद नक्षत्र मंत्र
+assets/images/mantras/nakshatra-mantra-27.png  — रेवती नक्षत्र मंत्र
+assets/images/mantras/lagna-mantra-1.png  — मेष लग्न मंत्र
+assets/images/mantras/lagna-mantra-2.png  — वृषभ लग्न मंत्र
+assets/images/mantras/lagna-mantra-3.png  — मिथुन लग्न मंत्र
+assets/images/mantras/lagna-mantra-4.png  — कर्क लग्न मंत्र
+assets/images/mantras/lagna-mantra-5.png  — सिंह लग्न मंत्र
+assets/images/mantras/lagna-mantra-6.png  — कन्या लग्न मंत्र
+assets/images/mantras/lagna-mantra-7.png  — तुला लग्न मंत्र
+assets/images/mantras/lagna-mantra-8.png  — वृश्चिक लग्न मंत्र
+assets/images/mantras/lagna-mantra-9.png  — धनु लग्न मंत्र
+assets/images/mantras/lagna-mantra-10.png  — मकर लग्न मंत्र
+assets/images/mantras/lagna-mantra-11.png  — कुंभ लग्न मंत्र
+assets/images/mantras/lagna-mantra-12.png  — मीन लग्न मंत्र
+assets/images/mantras/grah-shanti-mantra-1.png  — सूर्य ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-2.png  — चंद्र ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-3.png  — मंगल ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-4.png  — बुध ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-5.png  — गुरु ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-6.png  — शुक्र ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-7.png  — शनि ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-8.png  — राहु ग्रह शांति मंत्र
+assets/images/mantras/grah-shanti-mantra-9.png  — केतु ग्रह शांति मंत्र
+assets/images/mantras/mahamrityunjaya-mantra-1.png  — वैदिक महामृत्युंजय मंत्र
+assets/images/mantras/mahamrityunjaya-mantra-2.png  — महामृत्युंजय मंत्र का विस्तृत पाठ-संदर्भ
+assets/images/mantras/mahamrityunjaya-mantra-3.png  — महामृत्युंजय मंत्र का ध्यान एवं जप-विवरण
+assets/images/mantras/mahamantra-1.png  — हरे कृष्ण महामंत्र
+assets/images/mantras/mahamantra-2.png  — श्रीराम जय राम जय जय राम
+assets/images/mantras/mahamantra-3.png  — ॐ नमः शिवाय
+assets/images/mantras/mahamantra-4.png  — ॐ नमो नारायणाय
+assets/images/mantras/mahamantra-5.png  — ॐ नमो भगवते वासुदेवाय
+assets/images/mantras/mahamantra-6.png  — गायत्री मंत्र
+assets/images/mantras/mahamantra-7.png  — महामृत्युंजय मंत्र
+assets/images/mantras/mahamantra-8.png  — ॐ गं गणपतये नमः
+assets/images/mantras/prarthana-mantra-1.png  — कराग्रे वसते लक्ष्मी
+assets/images/mantras/prarthana-mantra-2.png  — समुन्द्रवसने देवि
+assets/images/mantras/prarthana-mantra-3.png  — वक्रतुण्ड महाकाय
+assets/images/mantras/prarthana-mantra-4.png  — सरस्वती वंदना
+assets/images/mantras/prarthana-mantra-5.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/prarthana-mantra-6.png  — त्वमेव माता च पिता त्वमेव
+assets/images/mantras/prarthana-mantra-7.png  — शुभं करोति कल्याणम्
+assets/images/mantras/prarthana-mantra-8.png  — दीपज्योतिर्नमस्तुभ्यम्
+assets/images/mantras/prarthana-mantra-9.png  — कायेन वाचा मनसेंद्रियैर्वा
+assets/images/mantras/prarthana-mantra-10.png  — मंगलाचरण प्रार्थना
+assets/images/mantras/kshama-prarthana-mantra-1.png  — अपराध सहस्राणि
+assets/images/mantras/kshama-prarthana-mantra-2.png  — यदक्षरपदभ्रष्टम्
+assets/images/mantras/kshama-prarthana-mantra-3.png  — मन्त्रहीनं क्रियाहीनम्
+assets/images/mantras/kshama-prarthana-mantra-4.png  — कायेन वाचा मनसेंद्रियैर्वा
+assets/images/mantras/kshama-prarthana-mantra-5.png  — पूजा समापन क्षमा प्रार्थना
+assets/images/mantras/raksha-mantra-1.png  — श्रीराम रक्षा स्तोत्र
+assets/images/mantras/raksha-mantra-2.png  — नारायण कवच
+assets/images/mantras/raksha-mantra-3.png  — देवी कवच
+assets/images/mantras/raksha-mantra-4.png  — हनुमान रक्षा प्रार्थना
+assets/images/mantras/raksha-mantra-5.png  — दुर्गा रक्षा मंत्र
+assets/images/mantras/raksha-mantra-6.png  — शिव रक्षा स्तोत्र
+assets/images/mantras/raksha-mantra-7.png  — गणेश रक्षा प्रार्थना
+assets/images/mantras/raksha-mantra-8.png  — विष्णु रक्षा प्रार्थना
+assets/images/mantras/siddha-mantra-1.png  — गणेश सिद्धि मंत्र
+assets/images/mantras/siddha-mantra-2.png  — गायत्री मंत्र
+assets/images/mantras/siddha-mantra-3.png  — महामृत्युंजय मंत्र
+assets/images/mantras/siddha-mantra-4.png  — पंचाक्षरी मंत्र
+assets/images/mantras/siddha-mantra-5.png  — अष्टाक्षरी मंत्र
+assets/images/mantras/siddha-mantra-6.png  — द्वादशाक्षरी मंत्र
+assets/images/mantras/siddha-mantra-7.png  — हनुमान मंत्र
+assets/images/mantras/siddha-mantra-8.png  — देवी नवार्ण मंत्र
+assets/images/mantras/guru-mantra-1.png  — गुरुर्ब्रह्मा गुरुर्विष्णुः
+assets/images/mantras/guru-mantra-2.png  — ॐ गुरवे नमः
+assets/images/mantras/guru-mantra-3.png  — गुरु गायत्री मंत्र
+assets/images/mantras/guru-mantra-4.png  — दक्षिणामूर्ति मंत्र
+assets/images/mantras/guru-mantra-5.png  — दत्तात्रेय मंत्र
+assets/images/mantras/guru-mantra-6.png  — गुरु वंदना
+assets/images/mantras/guru-mantra-7.png  — गुरु पादुका स्तोत्र
+assets/images/mantras/guru-mantra-8.png  — गुरु ध्यान मंत्र
+assets/images/mantras/jap-sadhana-1.png  — ॐ जप
+assets/images/mantras/jap-sadhana-2.png  — गायत्री मंत्र जप
+assets/images/mantras/jap-sadhana-3.png  — महामृत्युंजय जप
+assets/images/mantras/jap-sadhana-4.png  — पंचाक्षरी मंत्र जप
+assets/images/mantras/jap-sadhana-5.png  — नाम-जप
+assets/images/mantras/jap-sadhana-6.png  — माला जप
+assets/images/mantras/jap-sadhana-7.png  — मानसिक जप
+assets/images/mantras/jap-sadhana-8.png  — ध्यानपूर्वक मंत्र जप
+assets/images/mantras/dhyan-yog-mantra-1.png  — ॐ
+assets/images/mantras/dhyan-yog-mantra-2.png  — सोऽहम्
+assets/images/mantras/dhyan-yog-mantra-3.png  — ॐ शान्तिः शान्तिः शान्तिः
+assets/images/mantras/dhyan-yog-mantra-4.png  — गायत्री मंत्र
+assets/images/mantras/dhyan-yog-mantra-5.png  — योग प्रारंभ प्रार्थना
+assets/images/mantras/dhyan-yog-mantra-6.png  — योग समापन प्रार्थना
+assets/images/mantras/dhyan-yog-mantra-7.png  — ध्यान मंत्र
+assets/images/mantras/dhyan-yog-mantra-8.png  — पतंजलि योग परंपरा की प्रार्थना
+assets/images/mantras/panchakshari-mantra-1.png  — ॐ नमः शिवाय
+assets/images/mantras/panchakshari-mantra-2.png  — नमः शिवाय
+assets/images/mantras/panchakshari-mantra-3.png  — शिव पंचाक्षरी मंत्र
+assets/images/mantras/panchakshari-mantra-4.png  — पंचाक्षरी मंत्र का ध्यान
+assets/images/mantras/panchakshari-mantra-5.png  — पंचाक्षरी मंत्र का जप-विवरण
+assets/images/mantras/ashtakshari-mantra-1.png  — ॐ नमो नारायणाय
+assets/images/mantras/ashtakshari-mantra-2.png  — नारायण अष्टाक्षरी मंत्र
+assets/images/mantras/ashtakshari-mantra-3.png  — अष्टाक्षरी मंत्र का ध्यान
+assets/images/mantras/ashtakshari-mantra-4.png  — अष्टाक्षरी मंत्र का अर्थ
+assets/images/mantras/ashtakshari-mantra-5.png  — अष्टाक्षरी मंत्र की जप-विधि
+assets/images/mantras/dwadashakshari-mantra-1.png  — ॐ नमो भगवते वासुदेवाय
+assets/images/mantras/dwadashakshari-mantra-2.png  — वासुदेव द्वादशाक्षरी मंत्र
+assets/images/mantras/dwadashakshari-mantra-3.png  — द्वादशाक्षरी मंत्र का ध्यान
+assets/images/mantras/dwadashakshari-mantra-4.png  — द्वादशाक्षरी मंत्र का अर्थ
+assets/images/mantras/dwadashakshari-mantra-5.png  — द्वादशाक्षरी मंत्र की जप-विधि
+assets/images/mantras/ekakshari-mantra-1.png  — ॐ
+assets/images/mantras/ekakshari-mantra-2.png  — ह्रीं
+assets/images/mantras/ekakshari-mantra-3.png  — श्रीं
+assets/images/mantras/ekakshari-mantra-4.png  — ऐं
+assets/images/mantras/ekakshari-mantra-5.png  — गं
+assets/images/mantras/ekakshari-mantra-6.png  — दुं
+assets/images/mantras/ekakshari-mantra-7.png  — क्लीं
+assets/images/mantras/ekakshari-mantra-8.png  — हुं
+assets/images/mantras/shadakshari-mantra-1.png  — ॐ नमः शिवाय — अक्षर-गणना परंपरा सहित
+assets/images/mantras/shadakshari-mantra-2.png  — ॐ वज्रपाणि हुं
+assets/images/mantras/shadakshari-mantra-3.png  — षडक्षरी अवलोकितेश्वर मंत्र
+assets/images/mantras/shadakshari-mantra-4.png  — षडक्षरी मंत्र का अर्थ
+assets/images/mantras/shadakshari-mantra-5.png  — षडक्षरी मंत्र की जप-विधि
+assets/images/mantras/tarak-mantra-1.png  — राम नाम तारक मंत्र
+assets/images/mantras/tarak-mantra-2.png  — श्रीराम जय राम जय जय राम
+assets/images/mantras/tarak-mantra-3.png  — ॐ नमः शिवाय — तारक मंत्र परंपरा में संदर्भ
+assets/images/mantras/tarak-mantra-4.png  — राम तारक मंत्र का अर्थ
+assets/images/mantras/tarak-mantra-5.png  — तारक मंत्र का पारंपरिक जप-विवरण
+assets/images/mantras/naam-mantra-1.png  — शिव नाम मंत्र
+assets/images/mantras/naam-mantra-2.png  — राम नाम मंत्र
+assets/images/mantras/naam-mantra-3.png  — कृष्ण नाम मंत्र
+assets/images/mantras/naam-mantra-4.png  — नारायण नाम मंत्र
+assets/images/mantras/naam-mantra-5.png  — गणेश नाम मंत्र
+assets/images/mantras/naam-mantra-6.png  — हनुमान नाम मंत्र
+assets/images/mantras/naam-mantra-7.png  — दुर्गा नाम मंत्र
+assets/images/mantras/naam-mantra-8.png  — लक्ष्मी नाम मंत्र
+assets/images/mantras/naam-mantra-9.png  — सरस्वती नाम मंत्र
+assets/images/mantras/naam-mantra-10.png  — सूर्य नाम मंत्र
+assets/images/mantras/naam-mantra-11.png  — राधा नाम मंत्र
+assets/images/mantras/naam-mantra-12.png  — सीता नाम मंत्र
+assets/images/mantras/beejakshar-mantra-1.png  — ॐ
+assets/images/mantras/beejakshar-mantra-2.png  — ह्रीं
+assets/images/mantras/beejakshar-mantra-3.png  — श्रीं
+assets/images/mantras/beejakshar-mantra-4.png  — ऐं
+assets/images/mantras/beejakshar-mantra-5.png  — क्लीं
+assets/images/mantras/beejakshar-mantra-6.png  — गं
+assets/images/mantras/beejakshar-mantra-7.png  — दुं
+assets/images/mantras/beejakshar-mantra-8.png  — हुं
+assets/images/mantras/beejakshar-mantra-9.png  — ग्लौं
+assets/images/mantras/beejakshar-mantra-10.png  — क्रौं
+assets/images/mantras/beejakshar-mantra-11.png  — द्रां
+assets/images/mantras/beejakshar-mantra-12.png  — क्ष्रौं
+assets/images/mantras/stri-devta-mantra-1.png  — दुर्गा मंत्र
+assets/images/mantras/stri-devta-mantra-2.png  — लक्ष्मी मंत्र
+assets/images/mantras/stri-devta-mantra-3.png  — सरस्वती मंत्र
+assets/images/mantras/stri-devta-mantra-4.png  — काली मंत्र
+assets/images/mantras/stri-devta-mantra-5.png  — पार्वती मंत्र
+assets/images/mantras/stri-devta-mantra-6.png  — गायत्री देवी मंत्र
+assets/images/mantras/stri-devta-mantra-7.png  — अन्नपूर्णा मंत्र
+assets/images/mantras/stri-devta-mantra-8.png  — संतोषी माता मंत्र
+assets/images/mantras/stri-devta-mantra-9.png  — शीतला माता मंत्र
+assets/images/mantras/stri-devta-mantra-10.png  — राधा मंत्र
+assets/images/mantras/stri-devta-mantra-11.png  — सीता मंत्र
+assets/images/mantras/stri-devta-mantra-12.png  — ललिता मंत्र
+assets/images/mantras/purush-devta-mantra-1.png  — शिव मंत्र
+assets/images/mantras/purush-devta-mantra-2.png  — विष्णु मंत्र
+assets/images/mantras/purush-devta-mantra-3.png  — गणेश मंत्र
+assets/images/mantras/purush-devta-mantra-4.png  — हनुमान मंत्र
+assets/images/mantras/purush-devta-mantra-5.png  — श्रीराम मंत्र
+assets/images/mantras/purush-devta-mantra-6.png  — श्रीकृष्ण मंत्र
+assets/images/mantras/purush-devta-mantra-7.png  — सूर्य मंत्र
+assets/images/mantras/purush-devta-mantra-8.png  — कार्तिकेय मंत्र
+assets/images/mantras/purush-devta-mantra-9.png  — भैरव मंत्र
+assets/images/mantras/purush-devta-mantra-10.png  — दत्तात्रेय मंत्र
+assets/images/mantras/purush-devta-mantra-11.png  — कुबेर मंत्र
+assets/images/mantras/purush-devta-mantra-12.png  — धन्वंतरि मंत्र
+assets/images/mantras/stotra-sukt-1.png  — पुरुष सूक्त
+assets/images/mantras/stotra-sukt-2.png  — श्री सूक्त
+assets/images/mantras/stotra-sukt-3.png  — नासदीय सूक्त
+assets/images/mantras/stotra-sukt-4.png  — रुद्राष्टकम
+assets/images/mantras/stotra-sukt-5.png  — शिव तांडव स्तोत्र
+assets/images/mantras/stotra-sukt-6.png  — विष्णु सहस्रनाम
+assets/images/mantras/stotra-sukt-7.png  — ललिता सहस्रनाम
+assets/images/mantras/stotra-sukt-8.png  — कनकधारा स्तोत्र
+assets/images/mantras/stotra-sukt-9.png  — आदित्य हृदय स्तोत्र
+assets/images/mantras/stotra-sukt-10.png  — नारायण सूक्त
+assets/images/mantras/stotra-sukt-11.png  — दुर्गा सप्तशती के स्तोत्र
+assets/images/mantras/stotra-sukt-12.png  — गणपति अथर्वशीर्ष
+assets/images/mantras/stotra-sukt-13.png  — महिषासुरमर्दिनी स्तोत्र
+assets/images/mantras/stotra-sukt-14.png  — भज गोविन्दम्
+assets/images/mantras/stotra-sukt-15.png  — गुरु पादुका स्तोत्र
+assets/images/mantras/chalisa-1.png  — हनुमान चालीसा
+assets/images/mantras/chalisa-2.png  — शिव चालीसा
+assets/images/mantras/chalisa-3.png  — दुर्गा चालीसा
+assets/images/mantras/chalisa-4.png  — गणेश चालीसा
+assets/images/mantras/chalisa-5.png  — श्रीराम चालीसा
+assets/images/mantras/chalisa-6.png  — कृष्ण चालीसा
+assets/images/mantras/chalisa-7.png  — विष्णु चालीसा
+assets/images/mantras/chalisa-8.png  — लक्ष्मी चालीसा
+assets/images/mantras/chalisa-9.png  — सरस्वती चालीसा
+assets/images/mantras/chalisa-10.png  — शनि चालीसा
+assets/images/mantras/chalisa-11.png  — गायत्री चालीसा
+assets/images/mantras/chalisa-12.png  — भैरव चालीसा
+assets/images/mantras/aarti-1.png  — ॐ जय जगदीश हरे
+assets/images/mantras/aarti-2.png  — जय गणेश जय गणेश देवा
+assets/images/mantras/aarti-3.png  — आरती कीजे हनुमान लला की
+assets/images/mantras/aarti-4.png  — ॐ जय शिव ओंकारा
+assets/images/mantras/aarti-5.png  — ॐ जय लक्ष्मी माता
+assets/images/mantras/aarti-6.png  — जय अम्बे गौरी
+assets/images/mantras/aarti-7.png  — आरती कुंजबिहारी की
+assets/images/mantras/aarti-8.png  — श्री रामचंद्र कृपालु भज मन
+assets/images/mantras/aarti-9.png  — जय सरस्वती माता
+assets/images/mantras/aarti-10.png  — ॐ जय सूर्य भगवान
+assets/images/mantras/aarti-11.png  — शनि देव आरती
+assets/images/mantras/aarti-12.png  — संतोषी माता आरती
+assets/images/mantras/puja-vidhi-mantra-1.png  — आचमन मंत्र
+assets/images/mantras/puja-vidhi-mantra-2.png  — आसन मंत्र
+assets/images/mantras/puja-vidhi-mantra-3.png  — संकल्प मंत्र
+assets/images/mantras/puja-vidhi-mantra-4.png  — गणेश आवाहन मंत्र
+assets/images/mantras/puja-vidhi-mantra-5.png  — कलश स्थापना मंत्र
+assets/images/mantras/puja-vidhi-mantra-6.png  — दीप प्रज्वलन मंत्र
+assets/images/mantras/puja-vidhi-mantra-7.png  — धूप मंत्र
+assets/images/mantras/puja-vidhi-mantra-8.png  — पुष्प अर्पण मंत्र
+assets/images/mantras/puja-vidhi-mantra-9.png  — नैवेद्य मंत्र
+assets/images/mantras/puja-vidhi-mantra-10.png  — आरती मंत्र
+assets/images/mantras/puja-vidhi-mantra-11.png  — प्रदक्षिणा मंत्र
+assets/images/mantras/puja-vidhi-mantra-12.png  — क्षमा प्रार्थना मंत्र
+assets/images/mantras/havan-yagya-mantra-1.png  — अग्नि आवाहन मंत्र
+assets/images/mantras/havan-yagya-mantra-2.png  — स्वाहा आहुति मंत्र
+assets/images/mantras/havan-yagya-mantra-3.png  — गणेश हवन मंत्र
+assets/images/mantras/havan-yagya-mantra-4.png  — नवग्रह हवन मंत्र
+assets/images/mantras/havan-yagya-mantra-5.png  — गायत्री हवन मंत्र
+assets/images/mantras/havan-yagya-mantra-6.png  — महामृत्युंजय हवन मंत्र
+assets/images/mantras/havan-yagya-mantra-7.png  — दुर्गा हवन मंत्र
+assets/images/mantras/havan-yagya-mantra-8.png  — पूर्णाहुति मंत्र
+assets/images/mantras/havan-yagya-mantra-9.png  — स्विष्टकृत् मंत्र
+assets/images/mantras/havan-yagya-mantra-10.png  — यज्ञ समापन शांति पाठ
+assets/images/mantras/sanskar-mantra-1.png  — गर्भाधान संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-2.png  — पुंसवन संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-3.png  — सीमन्तोन्नयन संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-4.png  — जातकर्म संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-5.png  — नामकरण संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-6.png  — निष्क्रमण संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-7.png  — अन्नप्राशन संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-8.png  — चूड़ाकर्म संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-9.png  — कर्णवेध संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-10.png  — विद्यारंभ संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-11.png  — उपनयन संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-12.png  — वेदारंभ संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-13.png  — केशांत संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-14.png  — समावर्तन संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-15.png  — विवाह संस्कार मंत्र
+assets/images/mantras/sanskar-mantra-16.png  — अंत्येष्टि संस्कार मंत्र
+assets/images/mantras/vivah-sanskar-mantra-1.png  — विवाह संकल्प मंत्र
+assets/images/mantras/vivah-sanskar-mantra-2.png  — कन्यादान मंत्र
+assets/images/mantras/vivah-sanskar-mantra-3.png  — पाणिग्रहण मंत्र
+assets/images/mantras/vivah-sanskar-mantra-4.png  — मंगल फेरे के मंत्र
+assets/images/mantras/vivah-sanskar-mantra-5.png  — सप्तपदी मंत्र
+assets/images/mantras/vivah-sanskar-mantra-6.png  — लाजाहोम मंत्र
+assets/images/mantras/vivah-sanskar-mantra-7.png  — अश्मारोहण मंत्र
+assets/images/mantras/vivah-sanskar-mantra-8.png  — हृदयस्पर्श मंत्र
+assets/images/mantras/vivah-sanskar-mantra-9.png  — सिंदूरदान से संबंधित क्षेत्रीय परंपरा के मंत्र
+assets/images/mantras/vivah-sanskar-mantra-10.png  — विवाह आशीर्वाद मंत्र
+assets/images/mantras/griha-pravesh-mantra-1.png  — गणेश आवाहन मंत्र
+assets/images/mantras/griha-pravesh-mantra-2.png  — वास्तु पुरुष मंत्र
+assets/images/mantras/griha-pravesh-mantra-3.png  — वास्तोष्पति मंत्र
+assets/images/mantras/griha-pravesh-mantra-4.png  — कलश स्थापना मंत्र
+assets/images/mantras/griha-pravesh-mantra-5.png  — मंगल प्रवेश प्रार्थना
+assets/images/mantras/griha-pravesh-mantra-6.png  — गृह लक्ष्मी मंत्र
+assets/images/mantras/griha-pravesh-mantra-7.png  — नवग्रह शांति मंत्र
+assets/images/mantras/griha-pravesh-mantra-8.png  — गृह प्रवेश मंगलकामना मंत्र
+assets/images/mantras/vastu-shanti-mantra-1.png  — वास्तु पुरुष मंत्र
+assets/images/mantras/vastu-shanti-mantra-2.png  — वास्तोष्पति मंत्र
+assets/images/mantras/vastu-shanti-mantra-3.png  — गणेश पूजा मंत्र
+assets/images/mantras/vastu-shanti-mantra-4.png  — कलश पूजन मंत्र
+assets/images/mantras/vastu-shanti-mantra-5.png  — नवग्रह शांति मंत्र
+assets/images/mantras/vastu-shanti-mantra-6.png  — भूमि पूजन मंत्र
+assets/images/mantras/vastu-shanti-mantra-7.png  — वास्तु देवता नमस्कार मंत्र
+assets/images/mantras/vastu-shanti-mantra-8.png  — वास्तु शांति हवन मंत्र
+assets/images/mantras/sankalp-mantra-1.png  — सामान्य पूजा संकल्प
+assets/images/mantras/sankalp-mantra-2.png  — गणेश पूजा संकल्प
+assets/images/mantras/sankalp-mantra-3.png  — नवग्रह पूजा संकल्प
+assets/images/mantras/sankalp-mantra-4.png  — हवन संकल्प
+assets/images/mantras/sankalp-mantra-5.png  — व्रत एवं अनुष्ठान संकल्प
+assets/images/mantras/tarpan-shraddha-mantra-1.png  — देव तर्पण मंत्र
+assets/images/mantras/tarpan-shraddha-mantra-2.png  — ऋषि तर्पण मंत्र
+assets/images/mantras/tarpan-shraddha-mantra-3.png  — पितृ तर्पण मंत्र
+assets/images/mantras/tarpan-shraddha-mantra-4.png  — पितृ नमस्कार मंत्र
+assets/images/mantras/tarpan-shraddha-mantra-5.png  — यम तर्पण मंत्र
+assets/images/mantras/tarpan-shraddha-mantra-6.png  — पितृ गायत्री मंत्र
+assets/images/mantras/tarpan-shraddha-mantra-7.png  — श्राद्ध संकल्प मंत्र
+assets/images/mantras/tarpan-shraddha-mantra-8.png  — पितृ शांति प्रार्थना
+assets/images/mantras/mangalacharan-mantra-1.png  — वक्रतुण्ड महाकाय
+assets/images/mantras/mangalacharan-mantra-2.png  — शुक्लाम्बरधरं विष्णुम्
+assets/images/mantras/mangalacharan-mantra-3.png  — गुरुर्ब्रह्मा गुरुर्विष्णुः
+assets/images/mantras/mangalacharan-mantra-4.png  — सरस्वती वंदना
+assets/images/mantras/mangalacharan-mantra-5.png  — नारायण स्मरण मंत्र
+assets/images/mantras/mangalacharan-mantra-6.png  — गणेश मंगलाचरण
+assets/images/mantras/mangalacharan-mantra-7.png  — देवी मंगलाचरण
+assets/images/mantras/mangalacharan-mantra-8.png  — सर्वमंगल मांगल्ये
+assets/images/mantras/visarjan-mantra-1.png  — गणेश विसर्जन प्रार्थना
+assets/images/mantras/visarjan-mantra-2.png  — देवी विसर्जन प्रार्थना
+assets/images/mantras/visarjan-mantra-3.png  — कलश विसर्जन मंत्र
+assets/images/mantras/visarjan-mantra-4.png  — पूजा समापन प्रार्थना
+assets/images/mantras/visarjan-mantra-5.png  — क्षमा याचना मंत्र
+assets/images/mantras/swasthya-mantra-1.png  — महामृत्युंजय मंत्र
+assets/images/mantras/swasthya-mantra-2.png  — धन्वंतरि मंत्र
+assets/images/mantras/swasthya-mantra-3.png  — सूर्य गायत्री मंत्र
+assets/images/mantras/swasthya-mantra-4.png  — अश्विनी कुमार प्रार्थना
+assets/images/mantras/swasthya-mantra-5.png  — आरोग्य प्रार्थना
+assets/images/mantras/swasthya-mantra-6.png  — आदित्य हृदय स्तोत्र
+assets/images/mantras/swasthya-mantra-7.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/swasthya-mantra-8.png  — शांति पाठ
+assets/images/mantras/samriddhi-mantra-1.png  — महालक्ष्मी मंत्र
+assets/images/mantras/samriddhi-mantra-2.png  — श्री सूक्त
+assets/images/mantras/samriddhi-mantra-3.png  — कनकधारा स्तोत्र
+assets/images/mantras/samriddhi-mantra-4.png  — कुबेर मंत्र
+assets/images/mantras/samriddhi-mantra-5.png  — लक्ष्मी गायत्री मंत्र
+assets/images/mantras/samriddhi-mantra-6.png  — अन्नपूर्णा मंत्र
+assets/images/mantras/samriddhi-mantra-7.png  — गजलक्ष्मी मंत्र
+assets/images/mantras/samriddhi-mantra-8.png  — श्रीं बीज मंत्र
+assets/images/mantras/safalta-mantra-1.png  — गणेश मूल मंत्र
+assets/images/mantras/safalta-mantra-2.png  — सरस्वती मंत्र
+assets/images/mantras/safalta-mantra-3.png  — गायत्री मंत्र
+assets/images/mantras/safalta-mantra-4.png  — हनुमान मंत्र
+assets/images/mantras/safalta-mantra-5.png  — गुरु मंत्र
+assets/images/mantras/safalta-mantra-6.png  — सूर्य मंत्र
+assets/images/mantras/safalta-mantra-7.png  — श्रीराम नाम मंत्र
+assets/images/mantras/safalta-mantra-8.png  — कार्य सिद्धि प्रार्थना
+assets/images/mantras/vidya-buddhi-mantra-1.png  — सरस्वती मूल मंत्र
+assets/images/mantras/vidya-buddhi-mantra-2.png  — सरस्वती गायत्री मंत्र
+assets/images/mantras/vidya-buddhi-mantra-3.png  — गणेश बुद्धि मंत्र
+assets/images/mantras/vidya-buddhi-mantra-4.png  — मेधा सूक्त
+assets/images/mantras/vidya-buddhi-mantra-5.png  — हयग्रीव मंत्र
+assets/images/mantras/vidya-buddhi-mantra-6.png  — गुरु मंत्र
+assets/images/mantras/vidya-buddhi-mantra-7.png  — वाग्देवी मंत्र
+assets/images/mantras/vidya-buddhi-mantra-8.png  — विद्यारंभ प्रार्थना
+assets/images/mantras/vivah-dampatya-mantra-1.png  — विवाह संकल्प मंत्र
+assets/images/mantras/vivah-dampatya-mantra-2.png  — सप्तपदी मंत्र
+assets/images/mantras/vivah-dampatya-mantra-3.png  — पाणिग्रहण मंत्र
+assets/images/mantras/vivah-dampatya-mantra-4.png  — लक्ष्मी-नारायण मंत्र
+assets/images/mantras/vivah-dampatya-mantra-5.png  — सीता-राम मंत्र
+assets/images/mantras/vivah-dampatya-mantra-6.png  — राधा-कृष्ण मंत्र
+assets/images/mantras/vivah-dampatya-mantra-7.png  — दांपत्य मंगलकामना मंत्र
+assets/images/mantras/vivah-dampatya-mantra-8.png  — विवाह आशीर्वाद मंत्र
+assets/images/mantras/parivar-kalyan-mantra-1.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/parivar-kalyan-mantra-2.png  — कुलदेवता प्रार्थना
+assets/images/mantras/parivar-kalyan-mantra-3.png  — गृह शांति मंत्र
+assets/images/mantras/parivar-kalyan-mantra-4.png  — महामृत्युंजय मंत्र
+assets/images/mantras/parivar-kalyan-mantra-5.png  — नारायण मंत्र
+assets/images/mantras/parivar-kalyan-mantra-6.png  — लक्ष्मी-नारायण मंत्र
+assets/images/mantras/parivar-kalyan-mantra-7.png  — गणेश मंगल मंत्र
+assets/images/mantras/parivar-kalyan-mantra-8.png  — परिवार मंगलकामना प्रार्थना
+assets/images/mantras/sukh-shanti-mantra-1.png  — ॐ सह नाववतु
+assets/images/mantras/sukh-shanti-mantra-2.png  — ॐ द्यौः शान्तिः
+assets/images/mantras/sukh-shanti-mantra-3.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/sukh-shanti-mantra-4.png  — असतो मा सद्गमय
+assets/images/mantras/sukh-shanti-mantra-5.png  — ॐ पूर्णमदः पूर्णमिदम्
+assets/images/mantras/sukh-shanti-mantra-6.png  — लोकाः समस्ताः सुखिनो भवन्तु
+assets/images/mantras/sukh-shanti-mantra-7.png  — गृह शांति प्रार्थना
+assets/images/mantras/sukh-shanti-mantra-8.png  — शांति पाठ
+assets/images/mantras/aatmbal-sahas-mantra-1.png  — हनुमान मूल मंत्र
+assets/images/mantras/aatmbal-sahas-mantra-2.png  — दुर्गा मंत्र
+assets/images/mantras/aatmbal-sahas-mantra-3.png  — गायत्री मंत्र
+assets/images/mantras/aatmbal-sahas-mantra-4.png  — श्रीराम नाम मंत्र
+assets/images/mantras/aatmbal-sahas-mantra-5.png  — सूर्य मंत्र
+assets/images/mantras/aatmbal-sahas-mantra-6.png  — भगवद्गीता के प्रेरणादायक श्लोक
+assets/images/mantras/aatmbal-sahas-mantra-7.png  — अभय प्रार्थना
+assets/images/mantras/aatmbal-sahas-mantra-8.png  — आत्मबल प्रार्थना
+assets/images/mantras/ekagrata-mantra-1.png  — ॐ
+assets/images/mantras/ekagrata-mantra-2.png  — गायत्री मंत्र
+assets/images/mantras/ekagrata-mantra-3.png  — सरस्वती मंत्र
+assets/images/mantras/ekagrata-mantra-4.png  — मेधा सूक्त
+assets/images/mantras/ekagrata-mantra-5.png  — गणेश मंत्र
+assets/images/mantras/ekagrata-mantra-6.png  — सोऽहम् ध्यान
+assets/images/mantras/ekagrata-mantra-7.png  — गुरु मंत्र
+assets/images/mantras/ekagrata-mantra-8.png  — ध्यान आरंभ प्रार्थना
+assets/images/mantras/sakaratmakta-kalyan-mantra-1.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/sakaratmakta-kalyan-mantra-2.png  — ॐ शान्तिः शान्तिः शान्तिः
+assets/images/mantras/sakaratmakta-kalyan-mantra-3.png  — गायत्री मंत्र
+assets/images/mantras/sakaratmakta-kalyan-mantra-4.png  — महामृत्युंजय मंत्र
+assets/images/mantras/sakaratmakta-kalyan-mantra-5.png  — लोकाः समस्ताः सुखिनो भवन्तु
+assets/images/mantras/sakaratmakta-kalyan-mantra-6.png  — मंगलाचरण मंत्र
+assets/images/mantras/sakaratmakta-kalyan-mantra-7.png  — मैत्री प्रार्थना
+assets/images/mantras/sakaratmakta-kalyan-mantra-8.png  — कल्याण प्रार्थना
+assets/images/mantras/tantra-yantra-1.png  — श्रीविद्या परंपरा के मंत्रों का परिचय
+assets/images/mantras/tantra-yantra-2.png  — श्री यंत्र पूजन मंत्र
+assets/images/mantras/tantra-yantra-3.png  — गणेश यंत्र पूजन मंत्र
+assets/images/mantras/tantra-yantra-4.png  — नवग्रह यंत्र पूजन मंत्र
+assets/images/mantras/tantra-yantra-5.png  — दुर्गा यंत्र पूजन मंत्र
+assets/images/mantras/tantra-yantra-6.png  — कुबेर यंत्र पूजन मंत्र
+assets/images/mantras/tantra-yantra-7.png  — वास्तु यंत्र पूजन मंत्र
+assets/images/mantras/tantra-yantra-8.png  — यंत्र स्थापना संकल्प
+assets/images/mantras/tantrik-parampara-1.png  — तांत्रिक परंपराओं में गणेश मंत्र
+assets/images/mantras/tantrik-parampara-2.png  — देवी उपासना मंत्र
+assets/images/mantras/tantrik-parampara-3.png  — भैरव उपासना मंत्र
+assets/images/mantras/tantrik-parampara-4.png  — श्रीविद्या परंपरा का परिचय
+assets/images/mantras/tantrik-parampara-5.png  — मातृका मंत्रों का परिचय
+assets/images/mantras/tantrik-parampara-6.png  — बीजाक्षर मंत्रों का अध्ययन
+assets/images/mantras/tantrik-parampara-7.png  — तंत्र परंपरा की गुरु वंदना
+assets/images/mantras/tantrik-parampara-8.png  — तंत्र ग्रंथों के शांति मंत्र
+assets/images/mantras/mantra-gyan-adhyayan-1.png  — मंत्र की परिभाषा
+assets/images/mantras/mantra-gyan-adhyayan-2.png  — वैदिक मंत्रों का परिचय
+assets/images/mantras/mantra-gyan-adhyayan-3.png  — बीज मंत्रों का परिचय
+assets/images/mantras/mantra-gyan-adhyayan-4.png  — मंत्र और स्तोत्र में अंतर
+assets/images/mantras/mantra-gyan-adhyayan-5.png  — मंत्रों के स्रोत
+assets/images/mantras/mantra-gyan-adhyayan-6.png  — मंत्रों की अक्षर-गणना
+assets/images/mantras/mantra-gyan-adhyayan-7.png  — मंत्र जप की पारंपरिक विधियाँ
+assets/images/mantras/mantra-gyan-adhyayan-8.png  — मंत्र अध्ययन के नियम
+assets/images/mantras/mantron-ke-arth-1.png  — गायत्री मंत्र का अर्थ
+assets/images/mantras/mantron-ke-arth-2.png  — महामृत्युंजय मंत्र का अर्थ
+assets/images/mantras/mantron-ke-arth-3.png  — ॐ नमः शिवाय का अर्थ
+assets/images/mantras/mantron-ke-arth-4.png  — ॐ गं गणपतये नमः का अर्थ
+assets/images/mantras/mantron-ke-arth-5.png  — ॐ नमो नारायणाय का अर्थ
+assets/images/mantras/mantron-ke-arth-6.png  — सर्वे भवन्तु सुखिनः का अर्थ
+assets/images/mantras/mantron-ke-arth-7.png  — ॐ नमो भगवते वासुदेवाय का अर्थ
+assets/images/mantras/mantron-ke-arth-8.png  — असतो मा सद्गमय का अर्थ
+assets/images/mantras/mantra-uchcharan-swar-1.png  — ॐ के उच्चारण का परिचय
+assets/images/mantras/mantra-uchcharan-swar-2.png  — स्वर और व्यंजन का अभ्यास
+assets/images/mantras/mantra-uchcharan-swar-3.png  — दीर्घ और ह्रस्व स्वर
+assets/images/mantras/mantra-uchcharan-swar-4.png  — अनुस्वार और विसर्ग
+assets/images/mantras/mantra-uchcharan-swar-5.png  — वैदिक स्वराघात का परिचय
+assets/images/mantras/mantra-uchcharan-swar-6.png  — संस्कृत शब्दों का उच्चारण
+assets/images/mantras/mantra-uchcharan-swar-7.png  — मंत्र पाठ में विराम
+assets/images/mantras/mantra-uchcharan-swar-8.png  — पाठ की शुद्धता जाँचने के तरीके
+assets/images/mantras/mantra-jap-vidhi-1.png  — जप से पहले की तैयारी
+assets/images/mantras/mantra-jap-vidhi-2.png  — जप का स्थान
+assets/images/mantras/mantra-jap-vidhi-3.png  — जप का समय
+assets/images/mantras/mantra-jap-vidhi-4.png  — वाचिक जप
+assets/images/mantras/mantra-jap-vidhi-5.png  — उपांशु जप
+assets/images/mantras/mantra-jap-vidhi-6.png  — मानसिक जप
+assets/images/mantras/mantra-jap-vidhi-7.png  — जप की गिनती
+assets/images/mantras/mantra-jap-vidhi-8.png  — जप के बाद की प्रार्थना
+assets/images/mantras/mala-jap-niyam-1.png  — रुद्राक्ष माला का परिचय
+assets/images/mantras/mala-jap-niyam-2.png  — तुलसी माला का परिचय
+assets/images/mantras/mala-jap-niyam-3.png  — स्फटिक माला का परिचय
+assets/images/mantras/mala-jap-niyam-4.png  — माला के मनकों की गणना
+assets/images/mantras/mala-jap-niyam-5.png  — सुमेरु मनके का परिचय
+assets/images/mantras/mala-jap-niyam-6.png  — जप गिनने की विधि
+assets/images/mantras/mala-jap-niyam-7.png  — माला की देखभाल
+assets/images/mantras/mala-jap-niyam-8.png  — विभिन्न परंपराओं में जप नियम
+assets/images/mantras/mantron-ka-itihas-1.png  — वैदिक मंत्रों की परंपरा
+assets/images/mantras/mantron-ka-itihas-2.png  — उपनिषदों में मंत्र
+assets/images/mantras/mantron-ka-itihas-3.png  — पुराणों में मंत्र
+assets/images/mantras/mantron-ka-itihas-4.png  — भक्ति आंदोलन और नाम-जप
+assets/images/mantras/mantron-ka-itihas-5.png  — स्तोत्र परंपरा
+assets/images/mantras/mantron-ka-itihas-6.png  — मंदिरों में मंत्र-पाठ
+assets/images/mantras/mantron-ka-itihas-7.png  — क्षेत्रीय मंत्र परंपराएँ
+assets/images/mantras/mantron-ka-itihas-8.png  — आधुनिक समय में मंत्र अध्ययन
+assets/images/mantras/puranon-ke-mantra-1.png  — विष्णु पुराण से संबंधित मंत्र-पाठ
+assets/images/mantras/puranon-ke-mantra-2.png  — शिव पुराण से संबंधित मंत्र-पाठ
+assets/images/mantras/puranon-ke-mantra-3.png  — देवी भागवत से संबंधित स्तुतियाँ
+assets/images/mantras/puranon-ke-mantra-4.png  — भागवत पुराण के प्रार्थना श्लोक
+assets/images/mantras/puranon-ke-mantra-5.png  — मार्कण्डेय पुराण की देवी स्तुतियाँ
+assets/images/mantras/puranon-ke-mantra-6.png  — गरुड़ पुराण के प्रार्थना-पाठ
+assets/images/mantras/puranon-ke-mantra-7.png  — स्कंद पुराण से संबंधित स्तुतियाँ
+assets/images/mantras/puranon-ke-mantra-8.png  — पुराणों के शांति पाठ
+assets/images/mantras/upanishadon-ke-mantra-1.png  — ईशावास्य उपनिषद का शांति पाठ
+assets/images/mantras/upanishadon-ke-mantra-2.png  — केनोपनिषद का शांति पाठ
+assets/images/mantras/upanishadon-ke-mantra-3.png  — कठोपनिषद के प्रमुख मंत्र
+assets/images/mantras/upanishadon-ke-mantra-4.png  — प्रश्नोपनिषद के प्रमुख मंत्र
+assets/images/mantras/upanishadon-ke-mantra-5.png  — मुण्डकोपनिषद के प्रमुख मंत्र
+assets/images/mantras/upanishadon-ke-mantra-6.png  — माण्डूक्य उपनिषद का ॐ-विवेचन
+assets/images/mantras/upanishadon-ke-mantra-7.png  — तैत्तिरीय उपनिषद का शांति पाठ
+assets/images/mantras/upanishadon-ke-mantra-8.png  — बृहदारण्यक उपनिषद का शांति पाठ
+assets/images/mantras/vrat-mantra-1.png  — व्रत संकल्प मंत्र
+assets/images/mantras/vrat-mantra-2.png  — एकादशी व्रत प्रार्थना
+assets/images/mantras/vrat-mantra-3.png  — सोमवार व्रत प्रार्थना
+assets/images/mantras/vrat-mantra-4.png  — शुक्रवार व्रत प्रार्थना
+assets/images/mantras/vrat-mantra-5.png  — प्रदोष व्रत प्रार्थना
+assets/images/mantras/vrat-mantra-6.png  — सत्यनारायण व्रत प्रार्थना
+assets/images/mantras/vrat-mantra-7.png  — करवा चौथ व्रत प्रार्थना
+assets/images/mantras/vrat-mantra-8.png  — व्रत समापन प्रार्थना
+assets/images/mantras/ekadashi-mantra-1.png  — विष्णु मूल मंत्र
+assets/images/mantras/ekadashi-mantra-2.png  — ॐ नमो नारायणाय
+assets/images/mantras/ekadashi-mantra-3.png  — ॐ नमो भगवते वासुदेवाय
+assets/images/mantras/ekadashi-mantra-4.png  — एकादशी संकल्प
+assets/images/mantras/ekadashi-mantra-5.png  — एकादशी समापन प्रार्थना
+assets/images/mantras/somvar-vrat-mantra-1.png  — ॐ नमः शिवाय
+assets/images/mantras/somvar-vrat-mantra-2.png  — शिव गायत्री मंत्र
+assets/images/mantras/somvar-vrat-mantra-3.png  — शिव ध्यान मंत्र
+assets/images/mantras/somvar-vrat-mantra-4.png  — सोमवार व्रत संकल्प
+assets/images/mantras/somvar-vrat-mantra-5.png  — शिव पूजा क्षमा प्रार्थना
+assets/images/mantras/pradosh-vrat-mantra-1.png  — ॐ नमः शिवाय
+assets/images/mantras/pradosh-vrat-mantra-2.png  — महामृत्युंजय मंत्र
+assets/images/mantras/pradosh-vrat-mantra-3.png  — शिव पंचाक्षरी मंत्र
+assets/images/mantras/pradosh-vrat-mantra-4.png  — प्रदोष पूजा संकल्प
+assets/images/mantras/pradosh-vrat-mantra-5.png  — प्रदोष समापन प्रार्थना
+assets/images/mantras/satyanarayan-puja-mantra-1.png  — गणेश पूजा मंत्र
+assets/images/mantras/satyanarayan-puja-mantra-2.png  — विष्णु मूल मंत्र
+assets/images/mantras/satyanarayan-puja-mantra-3.png  — सत्यनारायण आवाहन
+assets/images/mantras/satyanarayan-puja-mantra-4.png  — सत्यनारायण पूजा प्रार्थना
+assets/images/mantras/satyanarayan-puja-mantra-5.png  — कथा श्रवण संकल्प
+assets/images/mantras/satyanarayan-puja-mantra-6.png  — पूजा समापन प्रार्थना
+assets/images/mantras/deepawali-puja-mantra-1.png  — गणेश मंत्र
+assets/images/mantras/deepawali-puja-mantra-2.png  — महालक्ष्मी मंत्र
+assets/images/mantras/deepawali-puja-mantra-3.png  — कुबेर मंत्र
+assets/images/mantras/deepawali-puja-mantra-4.png  — दीप प्रज्वलन मंत्र
+assets/images/mantras/deepawali-puja-mantra-5.png  — कलश स्थापना मंत्र
+assets/images/mantras/deepawali-puja-mantra-6.png  — श्री सूक्त
+assets/images/mantras/deepawali-puja-mantra-7.png  — आरती मंत्र
+assets/images/mantras/deepawali-puja-mantra-8.png  — क्षमा प्रार्थना
+assets/images/mantras/navratri-mantra-1.png  — दुर्गा मूल मंत्र
+assets/images/mantras/navratri-mantra-2.png  — नवार्ण मंत्र
+assets/images/mantras/navratri-mantra-3.png  — दुर्गा गायत्री मंत्र
+assets/images/mantras/navratri-mantra-4.png  — देवी कवच
+assets/images/mantras/navratri-mantra-5.png  — अर्गला स्तोत्र
+assets/images/mantras/navratri-mantra-6.png  — कीलक स्तोत्र
+assets/images/mantras/navratri-mantra-7.png  — देवी सूक्त
+assets/images/mantras/navratri-mantra-8.png  — दुर्गा आरती
+assets/images/mantras/janmadin-ayush-mangalkamna-1.png  — आयुष्मान भव आशीर्वाद
+assets/images/mantras/janmadin-ayush-mangalkamna-2.png  — महामृत्युंजय मंत्र
+assets/images/mantras/janmadin-ayush-mangalkamna-3.png  — गणेश मंगल मंत्र
+assets/images/mantras/janmadin-ayush-mangalkamna-4.png  — गायत्री मंत्र
+assets/images/mantras/janmadin-ayush-mangalkamna-5.png  — सर्वमंगल प्रार्थना
+assets/images/mantras/vidyarthi-prarthana-1.png  — सरस्वती मंत्र
+assets/images/mantras/vidyarthi-prarthana-2.png  — गणेश मंत्र
+assets/images/mantras/vidyarthi-prarthana-3.png  — मेधा सूक्त
+assets/images/mantras/vidyarthi-prarthana-4.png  — गुरु वंदना
+assets/images/mantras/vidyarthi-prarthana-5.png  — गायत्री मंत्र
+assets/images/mantras/vidyarthi-prarthana-6.png  — विद्यारंभ प्रार्थना
+assets/images/mantras/subah-ki-prarthana-1.png  — कराग्रे वसते लक्ष्मी
+assets/images/mantras/subah-ki-prarthana-2.png  — समुन्द्रवसने देवि
+assets/images/mantras/subah-ki-prarthana-3.png  — ब्रह्मा मुरारि त्रिपुरान्तकारी
+assets/images/mantras/subah-ki-prarthana-4.png  — सूर्य नमस्कार मंत्र
+assets/images/mantras/subah-ki-prarthana-5.png  — गायत्री मंत्र
+assets/images/mantras/subah-ki-prarthana-6.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/shaam-ki-prarthana-1.png  — शुभं करोति कल्याणम्
+assets/images/mantras/shaam-ki-prarthana-2.png  — दीपज्योतिर्नमस्तुभ्यम्
+assets/images/mantras/shaam-ki-prarthana-3.png  — ॐ जय जगदीश हरे
+assets/images/mantras/shaam-ki-prarthana-4.png  — शांति पाठ
+assets/images/mantras/shaam-ki-prarthana-5.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/shaam-ki-prarthana-6.png  — क्षमा प्रार्थना
+assets/images/mantras/surya-namaskar-mantra-1.png  — ॐ मित्राय नमः
+assets/images/mantras/surya-namaskar-mantra-2.png  — ॐ रवये नमः
+assets/images/mantras/surya-namaskar-mantra-3.png  — ॐ सूर्याय नमः
+assets/images/mantras/surya-namaskar-mantra-4.png  — ॐ भानवे नमः
+assets/images/mantras/surya-namaskar-mantra-5.png  — ॐ खगाय नमः
+assets/images/mantras/surya-namaskar-mantra-6.png  — ॐ पूष्णे नमः
+assets/images/mantras/surya-namaskar-mantra-7.png  — ॐ हिरण्यगर्भाय नमः
+assets/images/mantras/surya-namaskar-mantra-8.png  — ॐ मरीचये नमः
+assets/images/mantras/surya-namaskar-mantra-9.png  — ॐ आदित्याय नमः
+assets/images/mantras/surya-namaskar-mantra-10.png  — ॐ सवित्रे नमः
+assets/images/mantras/surya-namaskar-mantra-11.png  — ॐ अर्काय नमः
+assets/images/mantras/surya-namaskar-mantra-12.png  — ॐ भास्कराय नमः
+assets/images/mantras/panchdev-puja-mantra-1.png  — गणेश मंत्र
+assets/images/mantras/panchdev-puja-mantra-2.png  — शिव मंत्र
+assets/images/mantras/panchdev-puja-mantra-3.png  — विष्णु मंत्र
+assets/images/mantras/panchdev-puja-mantra-4.png  — सूर्य मंत्र
+assets/images/mantras/panchdev-puja-mantra-5.png  — देवी मंत्र
+assets/images/mantras/kuldevta-mantra-1.png  — कुलदेवता नमस्कार
+assets/images/mantras/kuldevta-mantra-2.png  — कुलदेवी नमस्कार
+assets/images/mantras/kuldevta-mantra-3.png  — कुलदेवता आवाहन
+assets/images/mantras/kuldevta-mantra-4.png  — कुलदेवता प्रार्थना
+assets/images/mantras/kuldevta-mantra-5.png  — कुलदेवता क्षमा प्रार्थना
+assets/images/mantras/bhumi-pujan-mantra-1.png  — भूमि प्रार्थना
+assets/images/mantras/bhumi-pujan-mantra-2.png  — गणेश मंत्र
+assets/images/mantras/bhumi-pujan-mantra-3.png  — वास्तु पुरुष मंत्र
+assets/images/mantras/bhumi-pujan-mantra-4.png  — वास्तोष्पति मंत्र
+assets/images/mantras/bhumi-pujan-mantra-5.png  — कलश स्थापना मंत्र
+assets/images/mantras/bhumi-pujan-mantra-6.png  — भूमि शांति प्रार्थना
+assets/images/mantras/vahan-puja-mantra-1.png  — गणेश मंत्र
+assets/images/mantras/vahan-puja-mantra-2.png  — वाहन मंगलकामना
+assets/images/mantras/vahan-puja-mantra-3.png  — हनुमान मंत्र
+assets/images/mantras/vahan-puja-mantra-4.png  — नवग्रह शांति मंत्र
+assets/images/mantras/vahan-puja-mantra-5.png  — वाहन पूजा समापन प्रार्थना
+assets/images/mantras/vyapar-puja-mantra-1.png  — गणेश मंत्र
+assets/images/mantras/vyapar-puja-mantra-2.png  — महालक्ष्मी मंत्र
+assets/images/mantras/vyapar-puja-mantra-3.png  — कुबेर मंत्र
+assets/images/mantras/vyapar-puja-mantra-4.png  — सरस्वती मंत्र
+assets/images/mantras/vyapar-puja-mantra-5.png  — दीप प्रज्वलन मंत्र
+assets/images/mantras/vyapar-puja-mantra-6.png  — व्यापार मंगलकामना प्रार्थना
+assets/images/mantras/pariksha-prarthana-1.png  — सरस्वती मंत्र
+assets/images/mantras/pariksha-prarthana-2.png  — गणेश मंत्र
+assets/images/mantras/pariksha-prarthana-3.png  — गायत्री मंत्र
+assets/images/mantras/pariksha-prarthana-4.png  — गुरु वंदना
+assets/images/mantras/pariksha-prarthana-5.png  — विद्या प्रार्थना
+assets/images/mantras/yatra-mangal-mantra-1.png  — गणेश मंत्र
+assets/images/mantras/yatra-mangal-mantra-2.png  — हनुमान मंत्र
+assets/images/mantras/yatra-mangal-mantra-3.png  — विष्णु स्मरण
+assets/images/mantras/yatra-mangal-mantra-4.png  — मंगल यात्रा प्रार्थना
+assets/images/mantras/yatra-mangal-mantra-5.png  — यात्रा समापन धन्यवाद प्रार्थना
+assets/images/mantras/paryavaran-prakriti-prarthana-1.png  — भूमि सूक्त
+assets/images/mantras/paryavaran-prakriti-prarthana-2.png  — सूर्य प्रार्थना
+assets/images/mantras/paryavaran-prakriti-prarthana-3.png  — जल से संबंधित वैदिक प्रार्थना
+assets/images/mantras/paryavaran-prakriti-prarthana-4.png  — वनस्पति शांति मंत्र
+assets/images/mantras/paryavaran-prakriti-prarthana-5.png  — शांति पाठ
+assets/images/mantras/paryavaran-prakriti-prarthana-6.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/dainik-mantra-sangrah-1.png  — ॐ
+assets/images/mantras/dainik-mantra-sangrah-2.png  — गायत्री मंत्र
+assets/images/mantras/dainik-mantra-sangrah-3.png  — महामृत्युंजय मंत्र
+assets/images/mantras/dainik-mantra-sangrah-4.png  — ॐ नमः शिवाय
+assets/images/mantras/dainik-mantra-sangrah-5.png  — ॐ गं गणपतये नमः
+assets/images/mantras/dainik-mantra-sangrah-6.png  — ॐ नमो नारायणाय
+assets/images/mantras/dainik-mantra-sangrah-7.png  — सर्वे भवन्तु सुखिनः
+assets/images/mantras/dainik-mantra-sangrah-8.png  — असतो मा सद्गमय
+assets/images/mantras/dainik-mantra-sangrah-9.png  — गुरुर्ब्रह्मा गुरुर्विष्णुः
+assets/images/mantras/dainik-mantra-sangrah-10.png  — ॐ शान्तिः शान्तिः शान्तिः
+assets/images/mantras/devi-mantra-supplement-008.png  — भुवनेश्वरी मंत्र
+assets/images/mantras/shanti-mantra-supplement-008.png  — आप्यायन्तु ममाङ्गानि
+assets/images/mantras/ganesh-mantra-supplement-004.png  — गणेश नमस्कार / मूल मंत्र
+assets/images/mantras/krishna-mantra-supplement-008.png  — कृष्ण ध्यान श्लोक
+assets/images/mantras/krishna-mantra-supplement-009.png  — श्रीकृष्ण स्तुति
+assets/images/mantras/shri-ram-mantra-supplement-005.png  — राम रक्षा स्तोत्र का श्लोक
+assets/images/mantras/shri-ram-mantra-supplement-007.png  — रामभद्र मंत्र
+assets/images/mantras/lakshmi-mantra-supplement-003.png  — लक्ष्मी नमस्कार
+assets/images/mantras/lakshmi-mantra-supplement-005.png  — गजलक्ष्मी मंत्र
+assets/images/mantras/saraswati-mantra-supplement-008.png  — सरस्वती नमस्कार
+assets/images/mantras/category-25-content-placeholder.png  — काली मंत्र
+assets/images/mantras/category-26-content-placeholder.png  — गायत्री देवी मंत्र
+assets/images/mantras/category-27-content-placeholder.png  — सूर्य देव मंत्र
+assets/images/mantras/category-28-content-placeholder.png  — कार्तिकेय मंत्र
+assets/images/mantras/category-29-content-placeholder.png  — राधा मंत्र
+assets/images/mantras/category-30-content-placeholder.png  — सीता मंत्र
+assets/images/mantras/category-31-content-placeholder.png  — भैरव मंत्र
+assets/images/mantras/category-32-content-placeholder.png  — दत्तात्रेय मंत्र
+assets/images/mantras/category-34-content-placeholder.png  — शीतला माता मंत्र
+assets/images/mantras/category-35-content-placeholder.png  — संतोषी माता मंत्र
+assets/images/mantras/category-38-content-placeholder.png  — चंद्र ग्रह मंत्र
+assets/images/mantras/category-40-content-placeholder.png  — बुध ग्रह मंत्र
+assets/images/mantras/category-41-content-placeholder.png  — गुरु ग्रह मंत्र
+assets/images/mantras/category-43-content-placeholder.png  — शनि ग्रह मंत्र
+assets/images/mantras/category-44-content-placeholder.png  — राहु मंत्र
+assets/images/mantras/category-45-content-placeholder.png  — केतु मंत्र
+
+Category images:
+assets/images/category-01.png  — वैदिक मंत्र
+assets/images/category-02.png  — बीज मंत्र
+assets/images/category-03.png  — देवी मंत्र
+assets/images/category-04.png  — देवता मंत्र
+assets/images/category-05.png  — गायत्री मंत्र
+assets/images/category-06.png  — महामृत्युंजय मंत्र
+assets/images/category-07.png  — महामंत्र
+assets/images/category-08.png  — शांति मंत्र
+assets/images/category-09.png  — प्रार्थना मंत्र
+assets/images/category-10.png  — क्षमा प्रार्थना मंत्र
+assets/images/category-11.png  — रक्षा मंत्र
+assets/images/category-12.png  — सिद्ध मंत्र
+assets/images/category-13.png  — गुरु मंत्र
+assets/images/category-14.png  — जप एवं साधना
+assets/images/category-15.png  — ध्यान एवं योग मंत्र
+assets/images/category-16.png  — शिव मंत्र
+assets/images/category-17.png  — गणेश मंत्र
+assets/images/category-18.png  — हनुमान मंत्र
+assets/images/category-19.png  — विष्णु मंत्र
+assets/images/category-20.png  — श्रीकृष्ण मंत्र
+assets/images/category-21.png  — श्रीराम मंत्र
+assets/images/category-22.png  — लक्ष्मी मंत्र
+assets/images/category-23.png  — सरस्वती मंत्र
+assets/images/category-24.png  — दुर्गा मंत्र
+assets/images/category-25.png  — काली मंत्र
+assets/images/category-26.png  — गायत्री देवी मंत्र
+assets/images/category-27.png  — सूर्य देव मंत्र
+assets/images/category-28.png  — कार्तिकेय मंत्र
+assets/images/category-29.png  — राधा मंत्र
+assets/images/category-30.png  — सीता मंत्र
+assets/images/category-31.png  — भैरव मंत्र
+assets/images/category-32.png  — दत्तात्रेय मंत्र
+assets/images/category-33.png  — कुबेर मंत्र
+assets/images/category-34.png  — शीतला माता मंत्र
+assets/images/category-35.png  — संतोषी माता मंत्र
+assets/images/category-36.png  — नवग्रह मंत्र
+assets/images/category-37.png  — सूर्य ग्रह मंत्र
+assets/images/category-38.png  — चंद्र ग्रह मंत्र
+assets/images/category-39.png  — मंगल ग्रह मंत्र
+assets/images/category-40.png  — बुध ग्रह मंत्र
+assets/images/category-41.png  — गुरु ग्रह मंत्र
+assets/images/category-42.png  — शुक्र ग्रह मंत्र
+assets/images/category-43.png  — शनि ग्रह मंत्र
+assets/images/category-44.png  — राहु मंत्र
+assets/images/category-45.png  — केतु मंत्र
+assets/images/category-46.png  — राशि मंत्र
+assets/images/category-47.png  — नक्षत्र मंत्र
+assets/images/category-48.png  — लग्न मंत्र
+assets/images/category-49.png  — ग्रह शांति मंत्र
+assets/images/category-50.png  — पंचाक्षरी मंत्र
+assets/images/category-51.png  — अष्टाक्षरी मंत्र
+assets/images/category-52.png  — द्वादशाक्षरी मंत्र
+assets/images/category-53.png  — एकाक्षरी मंत्र
+assets/images/category-54.png  — षडक्षरी मंत्र
+assets/images/category-55.png  — तारक मंत्र
+assets/images/category-56.png  — नाम मंत्र
+assets/images/category-57.png  — बीजाक्षर मंत्र
+assets/images/category-58.png  — स्त्री देवता मंत्र
+assets/images/category-59.png  — पुरुष देवता मंत्र
+assets/images/category-60.png  — स्तोत्र एवं सूक्त
+assets/images/category-61.png  — चालीसा
+assets/images/category-62.png  — आरती
+assets/images/category-63.png  — पूजा-विधि मंत्र
+assets/images/category-64.png  — हवन एवं यज्ञ मंत्र
+assets/images/category-65.png  — संस्कार मंत्र
+assets/images/category-66.png  — विवाह संस्कार मंत्र
+assets/images/category-67.png  — गृह प्रवेश मंत्र
+assets/images/category-68.png  — वास्तु शांति मंत्र
+assets/images/category-69.png  — संकल्प मंत्र
+assets/images/category-70.png  — तर्पण एवं श्राद्ध मंत्र
+assets/images/category-71.png  — मंगलाचरण मंत्र
+assets/images/category-72.png  — विसर्जन मंत्र
+assets/images/category-73.png  — स्वास्थ्य मंत्र
+assets/images/category-74.png  — समृद्धि मंत्र
+assets/images/category-75.png  — सफलता मंत्र
+assets/images/category-76.png  — विद्या एवं बुद्धि मंत्र
+assets/images/category-77.png  — विवाह एवं दांपत्य मंत्र
+assets/images/category-78.png  — परिवार कल्याण मंत्र
+assets/images/category-79.png  — सुख-शांति मंत्र
+assets/images/category-80.png  — आत्मबल एवं साहस मंत्र
+assets/images/category-81.png  — एकाग्रता मंत्र
+assets/images/category-82.png  — सकारात्मकता एवं कल्याण मंत्र
+assets/images/category-83.png  — तंत्र एवं यंत्र
+assets/images/category-84.png  — तांत्रिक परंपरा
+assets/images/category-85.png  — मंत्र ज्ञान एवं अध्ययन
+assets/images/category-86.png  — मंत्रों के अर्थ
+assets/images/category-87.png  — मंत्र उच्चारण एवं स्वर
+assets/images/category-88.png  — मंत्र जप की विधि
+assets/images/category-89.png  — माला एवं जप नियम
+assets/images/category-90.png  — मंत्रों का इतिहास
+assets/images/category-91.png  — पुराणों के मंत्र
+assets/images/category-92.png  — उपनिषदों के मंत्र
+
+Other images:
+assets/images/logo.png
+assets/images/hero-banner.png

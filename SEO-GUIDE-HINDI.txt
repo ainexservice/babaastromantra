@@ -1,0 +1,30 @@
+BABA ASTRO MANTRA — SEO SETUP GUIDE (V8)
+
+1) Public domain
+- Set the canonical public URL and configure hosting for HTTPS.
+- The current site is a static SPA with hash routes. Google can process JavaScript, but hash routes are not ideal indexable URLs. For a large mantra library, use static pre-rendering or server-side rendering so each category/mantra has a crawlable page.
+- Set absolute canonical URLs after the final domain is known; do not leave empty URL fields in production metadata.
+
+2) Search Console
+- Verify the domain in Google Search Console and Bing Webmaster Tools.
+- Provide sitemap.xml listing each crawlable category and published mantra URL. Keep draft entries out of the sitemap.
+- Check crawl/indexing and structured-data reports; don't assume a page is indexed simply because it exists in the project.
+
+3) Page metadata
+- Use a unique title and description per category/mantra.
+- Add clean canonical URLs, Open Graph image fields, correct Hindi language metadata, and structured data only where it accurately describes page content.
+- Avoid copying thin placeholder pages into the public index. Draft entries in V8 remain hidden until filled and published.
+
+4) Content and trust
+- For each mantra, record the source name, edition, chapter/sukta/verse/number, language/transliteration scheme if used, reviewer and last verified date.
+- Distinguish Vedic text, stotra, prayer, devotional name, and general explanatory content. Do not label a modern devotional variant as an exact Vedic mantra without evidence.
+- Include meaningful Hindi explanation and contextual notes, not just keywords.
+
+5) Images and performance
+- Use descriptive filenames and alt text; compress images and preferably use WebP where supported. Keep the source image rights/license documented.
+- Upload category images to assets/images/category-01.png through category-93.png; logo and hero locations are listed in README-HINDI.txt.
+
+6) Public production requirements
+- Move the Admin authentication and content database to a server. The present password gate is only a local demo UI and is not a security control.
+- Add privacy policy, terms, disclaimer, correction/contact flow and an accurate copyright process before public launch.
+- SEO or AI-search appearance cannot be guaranteed; publish accurate, useful, attributable content and monitor indexing.

@@ -1,0 +1,97 @@
+BABA ASTRO MANTRA — CATEGORY IMAGE FILENAMES
+Folder: assets/images/
+Recommended dimensions: 900 x 600 px
+
+01. category-01.png — वैदिक मंत्र — #category/vedic-mantra
+02. category-02.png — बीज मंत्र — #category/beej-mantra
+03. category-03.png — देवी मंत्र — #category/devi-mantra
+04. category-04.png — देवता मंत्र — #category/devta-mantra
+05. category-05.png — नवग्रह मंत्र — #category/navgrah-mantra
+06. category-06.png — गायत्री मंत्र — #category/gayatri-mantra
+07. category-07.png — शांति मंत्र — #category/shanti-mantra
+08. category-08.png — शिव मंत्र — #category/shiv-mantra
+09. category-09.png — गणेश मंत्र — #category/ganesh-mantra
+10. category-10.png — हनुमान मंत्र — #category/hanuman-mantra
+11. category-11.png — विष्णु मंत्र — #category/vishnu-mantra
+12. category-12.png — श्रीकृष्ण मंत्र — #category/krishna-mantra
+13. category-13.png — श्रीराम मंत्र — #category/shri-ram-mantra
+14. category-14.png — लक्ष्मी मंत्र — #category/lakshmi-mantra
+15. category-15.png — सरस्वती मंत्र — #category/saraswati-mantra
+16. category-16.png — दुर्गा मंत्र — #category/durga-mantra
+17. category-17.png — राशि मंत्र — #category/rashi-mantra
+18. category-18.png — नक्षत्र मंत्र — #category/nakshatra-mantra
+19. category-19.png — लग्न मंत्र — #category/lagna-mantra
+20. category-20.png — ग्रह शांति मंत्र — #category/grah-shanti-mantra
+21. category-21.png — महामृत्युंजय मंत्र — #category/mahamrityunjaya-mantra
+22. category-22.png — महामंत्र — #category/mahamantra
+23. category-23.png — प्रार्थना मंत्र — #category/prarthana-mantra
+24. category-24.png — क्षमा प्रार्थना मंत्र — #category/kshama-prarthana-mantra
+25. category-25.png — रक्षा मंत्र — #category/raksha-mantra
+26. category-26.png — सिद्ध मंत्र — #category/siddha-mantra
+27. category-27.png — गुरु मंत्र — #category/guru-mantra
+28. category-28.png — जप एवं साधना — #category/jap-sadhana
+29. category-29.png — ध्यान एवं योग मंत्र — #category/dhyan-yog-mantra
+30. category-30.png — पंचाक्षरी मंत्र — #category/panchakshari-mantra
+31. category-31.png — अष्टाक्षरी मंत्र — #category/ashtakshari-mantra
+32. category-32.png — द्वादशाक्षरी मंत्र — #category/dwadashakshari-mantra
+33. category-33.png — एकाक्षरी मंत्र — #category/ekakshari-mantra
+34. category-34.png — षडक्षरी मंत्र — #category/shadakshari-mantra
+35. category-35.png — तारक मंत्र — #category/tarak-mantra
+36. category-36.png — नाम मंत्र — #category/naam-mantra
+37. category-37.png — बीजाक्षर मंत्र — #category/beejakshar-mantra
+38. category-38.png — स्त्री देवता मंत्र — #category/stri-devta-mantra
+39. category-39.png — पुरुष देवता मंत्र — #category/purush-devta-mantra
+40. category-40.png — स्तोत्र एवं सूक्त — #category/stotra-sukt
+41. category-41.png — चालीसा — #category/chalisa
+42. category-42.png — आरती — #category/aarti
+43. category-43.png — पूजा-विधि मंत्र — #category/puja-vidhi-mantra
+44. category-44.png — हवन एवं यज्ञ मंत्र — #category/havan-yagya-mantra
+45. category-45.png — संस्कार मंत्र — #category/sanskar-mantra
+46. category-46.png — विवाह संस्कार मंत्र — #category/vivah-sanskar-mantra
+47. category-47.png — गृह प्रवेश मंत्र — #category/griha-pravesh-mantra
+48. category-48.png — वास्तु शांति मंत्र — #category/vastu-shanti-mantra
+49. category-49.png — संकल्प मंत्र — #category/sankalp-mantra
+50. category-50.png — तर्पण एवं श्राद्ध मंत्र — #category/tarpan-shraddha-mantra
+51. category-51.png — मंगलाचरण मंत्र — #category/mangalacharan-mantra
+52. category-52.png — विसर्जन मंत्र — #category/visarjan-mantra
+53. category-53.png — स्वास्थ्य मंत्र — #category/swasthya-mantra
+54. category-54.png — समृद्धि मंत्र — #category/samriddhi-mantra
+55. category-55.png — सफलता मंत्र — #category/safalta-mantra
+56. category-56.png — विद्या एवं बुद्धि मंत्र — #category/vidya-buddhi-mantra
+57. category-57.png — विवाह एवं दांपत्य मंत्र — #category/vivah-dampatya-mantra
+58. category-58.png — परिवार कल्याण मंत्र — #category/parivar-kalyan-mantra
+59. category-59.png — सुख-शांति मंत्र — #category/sukh-shanti-mantra
+60. category-60.png — आत्मबल एवं साहस मंत्र — #category/aatmbal-sahas-mantra
+61. category-61.png — एकाग्रता मंत्र — #category/ekagrata-mantra
+62. category-62.png — सकारात्मकता एवं कल्याण मंत्र — #category/sakaratmakta-kalyan-mantra
+63. category-63.png — तंत्र एवं यंत्र — #category/tantra-yantra
+64. category-64.png — तांत्रिक परंपरा — #category/tantrik-parampara
+65. category-65.png — मंत्र ज्ञान एवं अध्ययन — #category/mantra-gyan-adhyayan
+66. category-66.png — मंत्रों के अर्थ — #category/mantron-ke-arth
+67. category-67.png — मंत्र उच्चारण एवं स्वर — #category/mantra-uchcharan-swar
+68. category-68.png — मंत्र जप की विधि — #category/mantra-jap-vidhi
+69. category-69.png — माला एवं जप नियम — #category/mala-jap-niyam
+70. category-70.png — मंत्रों का इतिहास — #category/mantron-ka-itihas
+71. category-71.png — पुराणों के मंत्र — #category/puranon-ke-mantra
+72. category-72.png — उपनिषदों के मंत्र — #category/upanishadon-ke-mantra
+73. category-73.png — व्रत मंत्र — #category/vrat-mantra
+74. category-74.png — एकादशी मंत्र — #category/ekadashi-mantra
+75. category-75.png — सोमवार व्रत मंत्र — #category/somvar-vrat-mantra
+76. category-76.png — प्रदोष व्रत मंत्र — #category/pradosh-vrat-mantra
+77. category-77.png — सत्यनारायण पूजा मंत्र — #category/satyanarayan-puja-mantra
+78. category-78.png — दीपावली पूजा मंत्र — #category/deepawali-puja-mantra
+79. category-79.png — नवरात्रि मंत्र — #category/navratri-mantra
+80. category-80.png — जन्मदिन एवं आयु मंगलकामना — #category/janmadin-ayush-mangalkamna
+81. category-81.png — विद्यार्थी प्रार्थना — #category/vidyarthi-prarthana
+82. category-82.png — सुबह की प्रार्थना — #category/subah-ki-prarthana
+83. category-83.png — शाम की प्रार्थना — #category/shaam-ki-prarthana
+84. category-84.png — सूर्य नमस्कार मंत्र — #category/surya-namaskar-mantra
+85. category-85.png — पंचदेव पूजा मंत्र — #category/panchdev-puja-mantra
+86. category-86.png — कुलदेवता मंत्र — #category/kuldevta-mantra
+87. category-87.png — भूमि पूजन मंत्र — #category/bhumi-pujan-mantra
+88. category-88.png — वाहन पूजा मंत्र — #category/vahan-puja-mantra
+89. category-89.png — व्यापार पूजा मंत्र — #category/vyapar-puja-mantra
+90. category-90.png — परीक्षा प्रार्थना — #category/pariksha-prarthana
+91. category-91.png — यात्रा मंगल मंत्र — #category/yatra-mangal-mantra
+92. category-92.png — पर्यावरण एवं प्रकृति प्रार्थना — #category/paryavaran-prakriti-prarthana
+93. category-93.png — दैनिक मंत्र संग्रह — #category/dainik-mantra-sangrah
