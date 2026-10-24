@@ -1,0 +1,45 @@
+{
+  "version": "V15",
+  "totalEntries": 822,
+  "filledText": 822,
+  "filledMeaning": 822,
+  "leftoverPlaceholderTokens": 0,
+  "categoryCount": 92,
+  "statusCounts": {
+    "published": 822
+  },
+  "contentStatusCounts": {
+    "draft-text-and-meaning-curated-source-review-needed": 157,
+    "common-mantra-filled-source-review-recommended": 298,
+    "editorial-starter-filled-source-review-needed": 367
+  },
+  "entryTypeCounts": {
+    "मंत्र": 274,
+    "स्तोत्र/पाठ": 7,
+    "नाम-स्मरण मंत्र": 59,
+    "प्रार्थना": 15,
+    "स्तोत्र/मंगलाचरण": 1,
+    "बीज मंत्र": 4,
+    "नाम मंत्र": 16,
+    "स्तोत्र/पाठ परिचय": 28,
+    "स्तोत्र": 2,
+    "सरल हिंदी प्रार्थना": 143,
+    "अधिदेवता-स्मरण": 27,
+    "नवग्रह मंत्र": 22,
+    "वैदिक मंत्र": 20,
+    "मंगलाचरण": 3,
+    "शांति प्रार्थना": 9,
+    "पूजा-विधि / सरल प्रार्थना": 94,
+    "गुरु-वंदना": 3,
+    "शांति मंत्र": 3,
+    "वैदिक सूक्त-अंश": 5,
+    "स्तोत्र-अंश": 5,
+    "उपनिषद/स्तोत्र-अंश": 1,
+    "उपनिषद मंत्र": 4,
+    "बीजाक्षर": 1,
+    "अध्ययन सामग्री": 64,
+    "सूर्य नाम-मंत्र": 12
+  },
+  "note": "Text and Hindi meaning fields are filled for every entry. Editorial prayers, study notes, ritual instructions, and excerpts are identified as such; not every entry is a canonical Sanskrit mantra or a complete stotra/chalisa.",
+  "remainingCategoryPlaceholderLabels": 0
+}
